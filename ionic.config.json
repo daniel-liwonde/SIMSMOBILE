@@ -1,7 +1,14 @@
 {
-  "name": "firstApp",
+  "name": "BIU SIMS",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite"
+  "type": "react-vite",
+  "proxies": [
+    {
+      "path": "https:localhost:3000",
+      "proxyUrl": "https:localhost:3000"
+    }
+  ]
+  
 }

@@ -1,0 +1,11 @@
+  .custom-col {
+    border-bottom: 0px solid #aeacac; /* Example border style */
+  }
+
+  .custom-row:first-child:ion-col {
+    border-top-left-radius: 4%;
+    background-color: bisque;
+  }
+  .custom-row{
+    width: 100%;
+  }

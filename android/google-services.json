@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160804978254",
+    "project_id": "sims-be477",
+    "storage_bucket": "sims-be477.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160804978254:android:f6e9a53101fa363f59cd1f",
+        "android_client_info": {
+          "package_name": "com.biuedu.sims"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXujPQf_Op88Ut6s08X0bGsQZgoP9gVYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

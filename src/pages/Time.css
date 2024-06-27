@@ -1,0 +1,9 @@
+.table{
+    border-radius: 3%;
+}
+.table:nth-child(2){
+    background-color: #ddd;
+}
+.table:nth-child(2){
+    background-color: #fff;
+}

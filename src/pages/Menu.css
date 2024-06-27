@@ -1,0 +1,76 @@
+.menutop{
+    border:1px solid  #bbbbbc;
+    margin:-16px -16px 0px -16px;
+   background-color:#54B4D3;
+   background-size: cover;
+   background-repeat: repeat;
+   background-position: 1000 100;
+   height: 130px !important;
+}
+.menup{
+    margin-left: 30%;
+    color:#197569;
+}
+
+
+.prof{
+    margin-left: 40%;
+}
+.proftext {
+    margin-left: 5%;
+    background-color:#54B4D3;
+    width: 100% !important;
+    align-content:center;
+    padding: 10px;
+    border-radius: 18px !important;
+    text-align: center;
+    color: #197569;
+    cursor: pointer;
+    margin-bottom: 13px;
+}
+.btn {
+    --margin-left: 5%;
+    --background:#54B4D3;
+   --width:100%;
+    --align-content:center;
+    --padding: 10px;
+    --border-radius: 18px !important;
+    --text-align: center;
+    --color: #197569;
+    --cursor: pointer;
+    --box-shadow: none;
+}
+.bmenu{
+    color: #54B4D3;
+}
+.over{
+    color:#54B4D3;
+}
+.bmenu,.over:hover{
+--color:#197569; ;
+}
+.proftext2 {
+    margin-left: 20%;
+    background-color: #54B4D3;
+    width: 40% !important;
+    align-content:center;
+    padding: 10px;
+    border-radius: 18px !important;
+    text-align: center;
+    color: #197569;
+    cursor: pointer;
+}
+ion-chip{
+    background-color:#7BA6B4
+}
+.course{
+    cursor: pointer;
+}
+.bg{
+    display: inline;
+    border-radius: 110%;
+    width: 20px;
+
+
+    
+}
